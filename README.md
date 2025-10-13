@@ -13,3 +13,5 @@
 - PerfectPixel.
 
 Валидность кода соответствует стандарту W3C.
+
+Ссылка: https://desperado163.github.io/Mini-games/
